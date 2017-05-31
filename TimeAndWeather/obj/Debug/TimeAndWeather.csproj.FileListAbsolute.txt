@@ -1,0 +1,14 @@
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\bin\Debug\TimeAndWeather.exe.config
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\bin\Debug\TimeAndWeather.exe
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\bin\Debug\TimeAndWeather.pdb
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather.csprojResolveAssemblyReference.cache
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\MainWindow.g.cs
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\App.g.cs
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather_MarkupCompile.cache
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather_MarkupCompile.lref
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\MainWindow.baml
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather.g.resources
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather.Properties.Resources.resources
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather.csproj.GenerateResource.Cache
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather.exe
+C:\Users\zhang\documents\visual studio 2017\Projects\TimeAndWeather\TimeAndWeather\obj\Debug\TimeAndWeather.pdb

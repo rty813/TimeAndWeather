@@ -1,0 +1,19 @@
+﻿<Window x:Class="TimeAndWeather.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeAndWeather"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="902.206">
+    <Grid>
+        <Label Name="label_time" Content="time" HorizontalAlignment="Left" Margin="382,271,0,0" VerticalAlignment="Top"/>
+        <Label Name="label_weather" Content="概述" HorizontalAlignment="Left" Margin="80,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="第四天" Name="label_first" HorizontalAlignment="Left" Margin="560,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="第三天" Name="label_second" HorizontalAlignment="Left" Margin="440,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="第二天" Name="label_third" HorizontalAlignment="Left" Margin="320,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="第一天" Name="label_forth" HorizontalAlignment="Left" Margin="200,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="第五天" Name="label_fifth" HorizontalAlignment="Left" Margin="680,18,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
